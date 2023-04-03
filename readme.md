@@ -13,3 +13,7 @@
 * CSS
 
 * JavaScript 
+
+## Посмотреть: 
+
+https://iribronskaya.github.io/TASK_6.8/
